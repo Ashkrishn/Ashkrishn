@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with Improving scalable data pipelines and cloud-based analytics workflows [Cloud Analytics Pipelines](Ashkrishn)
 
-- 👨‍💻 All of my projects are available at [[Ashkrishn](Ashkrishn)](https://github.com/Ashkrishn/healthcare-readmission-analysis)
+- 👨‍💻 All of my projects are available at (https://github.com/Ashkrishn/healthcare-readmission-analysis),(https://github.com/Ashkrishn/sales-forecasting-customer-segmentation)
 
 - 📝 I regularly write articles on [Data analytics, SQL, and business intelligence (coming soon)](Data analytics, SQL, and business intelligence (coming soon))
 
